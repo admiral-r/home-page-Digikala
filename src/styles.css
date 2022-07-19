@@ -1,1 +1,39 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import "~bootstrap/dist/css/bootstrap.css";
+body {
+    direction: rtl;
+    text-align: right;
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+@font-face {
+    font-family: 'font1';
+    src: url(../src/assets/font/font1.ttf);
+}
+
+@font-face {
+    font-family: 'font2';
+    src: url(../src/assets/font/font2.ttf);
+}
+
+@font-face {
+    font-family: 'font3';
+    src: url(../src/assets/font/font3.ttf);
+}
+
+@font-face {
+    font-family: 'font4';
+    src: url(../src/assets/font/font4.ttf);
+}
+
+@font-face {
+    font-family: 'font5';
+    src: url(../src/assets/font/font5.ttf);
+}
+
+@font-face {
+    font-family: 'font6';
+    src: url(../src/assets/font/font6.ttf);
+}
